@@ -491,6 +491,30 @@ assignments = {
     "dd": "8/30/18",
     "et": .5,
     "completed": false
+  },
+  "assignment62": {
+    "action": "2 Sheets of Cubes",
+    "project": "Sketching",
+    "assigned date": "28-Aug",
+    "dd": "8/30/18",
+    "et": .5,
+    "completed": false
+  },
+  "assignment63": {
+    "action": "Designer 1 Paper and Presentation",
+    "project": "Sketching",
+    "assigned date": "28-Aug",
+    "dd": "9/4/18",
+    "et": .5,
+    "completed": false
+  },
+  "assignment64": {
+    "action": "Designer 2 Paper and Presentation",
+    "project": "Sketching",
+    "assigned date": "28-Aug",
+    "dd": "9/6/18",
+    "et": .5,
+    "completed": false
   }
 }
 
