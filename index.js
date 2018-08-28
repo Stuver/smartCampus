@@ -348,14 +348,6 @@ assignments = {
       "et": 5,
       "completed": false
    },
-   "assignment30": {
-      "action": "Homework 9",
-      "project": "ISE 3700",
-      "assigned date": "29-Mar",
-      "dd": "4/25/18",
-      "et": 1,
-      "completed": false
-   },
    "assignment44": {
       "action": "Resarch Paper Final",
       "project": "LING 2367.01",
@@ -489,6 +481,14 @@ assignments = {
     "project": "Dig Hist",
     "assigned date": "29-Aug",
     "dd": "8/31/18",
+    "et": .5,
+    "completed": false
+  },
+  "assignment61": {
+    "action": "Hairdryer",
+    "project": "Sketching",
+    "assigned date": "28-Aug",
+    "dd": "8/30/18",
     "et": .5,
     "completed": false
   }
