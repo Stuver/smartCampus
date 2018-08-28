@@ -378,7 +378,7 @@ assignments = {
     "assigned date": "23-Aug",
     "dd": "8/28/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment48": {
     "action": "Res for Des Pre - Ch.2",
@@ -386,7 +386,7 @@ assignments = {
     "assigned date": "23-Aug",
     "dd": "8/28/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment49": {
     "action": "Universal Methods 53, 74",
@@ -394,7 +394,7 @@ assignments = {
     "assigned date": "23-Aug",
     "dd": "8/28/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment50": {
     "action": "Practical Guide Ch. 2",
@@ -418,7 +418,7 @@ assignments = {
     "assigned date": "23-Aug",
     "dd": "8/28/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment53": {
     "action": "Participant Ciriteria & Research Qs",
@@ -434,7 +434,7 @@ assignments = {
     "assigned date": "23-Aug",
     "dd": "8/28/18",
     "et": 3,
-    "completed": false
+    "completed": true
   },
   "assignment55": {
     "action": "Printers",
@@ -450,7 +450,7 @@ assignments = {
     "assigned date": "23-Aug",
     "dd": "8/28/18",
     "et": 2,
-    "completed": false
+    "completed": true
   },
   "assignment57": {
     "action": "Arch Tour",
@@ -474,7 +474,7 @@ assignments = {
     "assigned date": "24-Aug",
     "dd": "8/29/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment60": {
     "action": "Macroscope 2",
