@@ -515,6 +515,14 @@ assignments = {
     "dd": "9/6/18",
     "et": .5,
     "completed": false
+  },
+  "assignment65": {
+    "action": "Workshop 1",
+    "project": "Dig Hist",
+    "assigned date": "29-Aug",
+    "dd": "9/5/18",
+    "et": .5,
+    "completed": false
   }
 }
 
