@@ -402,7 +402,7 @@ assignments = {
     "assigned date": "28-Aug",
     "dd": "8/30/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment51": {
     "action": "Res for Des Ch. 2",
@@ -410,7 +410,7 @@ assignments = {
     "assigned date": "28-Aug",
     "dd": "8/30/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment52": {
     "action": "Secondary Research: Problem Space",
@@ -426,7 +426,7 @@ assignments = {
     "assigned date": "28-Aug",
     "dd": "8/30/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment54": {
     "action": "400 Ellipses",
@@ -474,7 +474,7 @@ assignments = {
     "assigned date": "24-Aug",
     "dd": "8/29/18",
     "et": .5,
-    "completed": true
+    "completed": false
   },
   "assignment60": {
     "action": "Macroscope 2",
@@ -490,7 +490,7 @@ assignments = {
     "assigned date": "28-Aug",
     "dd": "8/30/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment62": {
     "action": "2 Sheets of Cubes",
@@ -498,7 +498,7 @@ assignments = {
     "assigned date": "28-Aug",
     "dd": "8/30/18",
     "et": .5,
-    "completed": false
+    "completed": true
   },
   "assignment63": {
     "action": "Designer 1 Paper and Presentation",
