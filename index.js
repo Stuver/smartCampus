@@ -523,6 +523,14 @@ assignments = {
     "dd": "9/5/18",
     "et": .5,
     "completed": false
+  },
+  "assignment66": {
+    "action": "CAD Bluetooth Speaker Work",
+    "project": "CAD",
+    "assigned date": "4-Sep",
+    "dd": "9/6/18",
+    "et": .5,
+    "completed": false
   }
 }
 
